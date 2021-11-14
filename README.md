@@ -1,2 +1,2 @@
-# CS_2340_Dungeon_Game
-CS 2340 Final Class Project
+# CS2340 Project
+By team 2: Clubhouse

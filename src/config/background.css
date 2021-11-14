@@ -1,0 +1,22 @@
+.root {
+    -fx-background-image:url("../res/welcome_screen_background.jpeg");
+}
+
+.label {
+    -fx-font-size:2em;
+    -fx-font-family:calibri-light;
+    -fx-text-fill: #efefef;
+    -fx-effect: dropshadow(gaussian, rgba(0, 0, 0, 0.5), 20, 0.3, 0, 0);
+    -fx-text-align: center;
+
+}
+
+.warning {
+    -fx-font-size: 1em;
+    -fx-text-fill: #DD3333;
+}
+
+.button {
+    -fx-font-size:2em;
+    -fx-font-family:calibri-light;
+}
