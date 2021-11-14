@@ -1,9 +1,9 @@
 # An interactive JavaFX Dungeon Game
 
-## A wide variety of weapon/potion selection
+## A Wide Variety of Weapon/Potion selection
 ![demo1](demo_images/demo1.jpg)
 
-## Intense boss fight
+## Intense Boss Fight
 ![demo2](demo_images/demo2.jpg)
 
 ## Author
